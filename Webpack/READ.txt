@@ -1,0 +1,7 @@
+1) npm init
+2) В package.json добавить строку в "scripts" ("build": "webpack")
+3) Создать файл webpack.config.js (и добавить туда всё это)
+3) Установить нужные модули
+4) Создать папки dist и src
+5) В src надо положить всё, что надо запаковать (index.js и другие)
+6) npm run webpack
